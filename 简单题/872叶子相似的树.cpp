@@ -1,22 +1,41 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
-class Solution {
-public:
-    bool leafSimilar(TreeNode* root1, TreeNode* root2) {
-        
-    }
+#include <string>
+#include <iostream>
+using namespace std;
+
+// 假设 TreeNode 结构已定义：
+struct TreeNode {
+    int val;
+    TreeNode* left;
+    TreeNode* right;
+    TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
 };
 
+class Solution {
+private:
+    void midorder(TreeNode* root, string& res) {
+        if (root == nullptr) {
+            return; // 递归终止条件
+        }
+        
+        // 中序遍历：左 -> 根 -> 右
+        midorder(root->left, res);
+        
+        // 如果是叶子节点（左右都为空），则记录值
+        if (root->left == nullptr && root->right == nullptr) {
+            res += to_string(root->val) + " "; // 用空格分隔，避免数字粘连
+        }
+        
+        midorder(root->right, res);
+    }
 
+public:
+    bool leafSimilar(TreeNode* root1, TreeNode* root2) {
+        string leaves1, leaves2;
+        midorder(root1, leaves1); // 获取 root1 的叶子序列
+        midorder(root2, leaves2); // 获取 root2 的叶子序列
+        return leaves1 == leaves2; // 比较是否相同
+    }
+};
 int main() {
     Solution s;
 
