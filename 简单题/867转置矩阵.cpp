@@ -3,33 +3,25 @@
 using namespace std;
 
 class Solution {
-private:
-    void swap(int &a, int &b) {
-        int temp = a;
-        a = b;
-        b = temp;
-    }
 public:
     vector<vector<int>> transpose(vector<vector<int>>& matrix) {
-        int m = matrix.size(); // 行数
-        int n = matrix[0].size(); // 列数
-
-        // 检查是否为方阵，非方阵无法原地转置
-        if (m != n) {
-            cerr << "Error: Matrix is not square! Cannot transpose in-place." << endl;
-            return {}; // 返回空矩阵
-        }
-
-        // 只处理方阵的原地转置
+        int m = matrix.size();    // 原矩阵的行数
+        int n = matrix[0].size(); // 原矩阵的列数
+        
+        // 创建一个新的 n × m 的矩阵
+        vector<vector<int>> result(n, vector<int>(m));
+        
+        // 填充转置矩阵
         for (int i = 0; i < m; i++) {
-            for (int j = i; j < n; j++) { // j从i开始，避免重复交换
-                // 修复：使用 matrix[i][j] 和 matrix[j][i]
-                swap(matrix[i][j], matrix[j][i]);
+            for (int j = 0; j < n; j++) {
+                result[j][i] = matrix[i][j];
             }
         }
-        return matrix;
+        
+        return result;
     }
 };
+
 
 // 辅助函数：打印矩阵
 void printMatrix(const vector<vector<int>>& matrix) {
