@@ -1,11 +1,12 @@
-fn main() {
-    println!("成功运行程序");
+fn main()
+{
+    let a = [10, 20, 30,40,50];
+    let mut index = 0;
 
-    let x = 5;
+    while index < 5
+    {
+        println!("the value is {}", a[index]);
 
-    println!("{x}");
-
-    x = 6;
-
-    println!("{x}");
+        index += 1;
+    }
 }
