@@ -3,10 +3,9 @@ use std::process;
 use minigrep::Config;
 fn main()
 {
-    let args: Vec<String> = env::args().collect();
     
-    let config = Config::build(&args).unwrap_or_else(|err|{
-        println!("你夏姬八输入什么了，不要喂食好吧");
+    let config = Config::build(env::args()).unwrap_or_else(|err|{
+        eprintln!("你夏姬八输入什么了，不要喂食好吧");
         process::exit(1);
     });
     //let config = Config::new(&args);
@@ -18,7 +17,7 @@ fn main()
     
     if let Err(e) = minigrep::run(config)
     {
-        println!("都说了不要夏姬八栾树如东西");
+        eprintln!("都说了不要夏姬八栾树如东西");
         process::exit(1);
     }
 }
