@@ -1,0 +1,33 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../icpc/55-q.cpp",
+  "hash": "ca33bbafe62126dac8c04a303d0959dd3e0713da4e6e53b82580c290fe17ea97",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "check"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "DFS"
+    },
+    {
+      "attrs": {
+        "entry": "true"
+      },
+      "kind": "func",
+      "name": "main"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.300802",
+  "unit": {
+    "module": "icpc",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

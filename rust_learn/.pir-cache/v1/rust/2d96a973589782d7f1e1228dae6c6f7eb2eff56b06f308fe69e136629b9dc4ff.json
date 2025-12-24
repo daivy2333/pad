@@ -1,0 +1,19 @@
+{
+  "deps": [],
+  "file": "../hello_package/src/lib.rs",
+  "hash": "2d96a973589782d7f1e1228dae6c6f7eb2eff56b06f308fe69e136629b9dc4ff",
+  "lang": "Rust",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "eat_at_restaurant"
+    }
+  ],
+  "timestamp": "2025-12-23T14:47:08.920603",
+  "unit": {
+    "module": "src",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

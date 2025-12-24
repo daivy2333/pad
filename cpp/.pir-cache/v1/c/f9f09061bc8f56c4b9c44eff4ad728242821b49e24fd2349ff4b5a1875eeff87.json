@@ -1,0 +1,23 @@
+{
+  "deps": [
+    "include:[stdio.h]"
+  ],
+  "file": "../\u677f\u5b50/hello.c",
+  "hash": "f9f09061bc8f56c4b9c44eff4ad728242821b49e24fd2349ff4b5a1875eeff87",
+  "lang": "C",
+  "symbols": [
+    {
+      "attrs": {
+        "entry": "true"
+      },
+      "kind": "func",
+      "name": "main"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.325272",
+  "unit": {
+    "module": "\u677f\u5b50",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

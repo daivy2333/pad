@@ -1,0 +1,23 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../icpc/20-1.cpp",
+  "hash": "b9c4c5c7ca5720dd21b04aa4caf6c053812dd45e53f69b7d9c09968f790f0163",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {
+        "entry": "true"
+      },
+      "kind": "func",
+      "name": "main"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.293880",
+  "unit": {
+    "module": "icpc",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

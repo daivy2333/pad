@@ -1,0 +1,38 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../icpc/64-2.cpp",
+  "hash": "f90fe08921accc8ab544feaccb9b07f9825d261209f2f7b26ce772b1119aad96",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "init_set"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "find_set"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "union_set"
+    },
+    {
+      "attrs": {
+        "entry": "true"
+      },
+      "kind": "func",
+      "name": "main"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.300078",
+  "unit": {
+    "module": "icpc",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

@@ -1,0 +1,30 @@
+{
+  "deps": [
+    "include:[iostream]",
+    "include:[vector]",
+    "include:[climits]"
+  ],
+  "file": "../\u7b80\u5355\u9898/868\u4e8c\u8fdb\u5236\u95f4\u8ddd.cpp",
+  "hash": "acfb4e8a06eaff2cbccd895a05b39e5e767ab93253010091c9fb516d80544814",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "binaryGap"
+    },
+    {
+      "attrs": {
+        "entry": "true"
+      },
+      "kind": "func",
+      "name": "main"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.313017",
+  "unit": {
+    "module": "\u7b80\u5355\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

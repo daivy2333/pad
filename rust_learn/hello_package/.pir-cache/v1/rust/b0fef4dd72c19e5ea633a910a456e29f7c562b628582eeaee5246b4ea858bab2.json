@@ -1,0 +1,24 @@
+{
+  "deps": [],
+  "file": "../src/back_of_house.rs",
+  "hash": "b0fef4dd72c19e5ea633a910a456e29f7c562b628582eeaee5246b4ea858bab2",
+  "lang": "Rust",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "fix_incorrect_order"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "cook_order"
+    }
+  ],
+  "timestamp": "2025-12-23T15:01:16.571255",
+  "unit": {
+    "module": "src",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

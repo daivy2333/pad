@@ -1,0 +1,26 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/3.cpp",
+  "hash": "80c50c955fa94525d55326a5c6b9f9c29e1ea3270dfe8e09f9065490d2af5f15",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "longestConsecutive"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "longestConsecutive"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.333375",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

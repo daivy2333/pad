@@ -1,0 +1,15 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/2.cpp",
+  "hash": "61577eab695a147a4c48bd5a867110ac24c83186542aaaca8949d95d7b5b6f1f",
+  "lang": "CPP",
+  "symbols": [],
+  "timestamp": "2025-12-23T14:45:44.332643",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

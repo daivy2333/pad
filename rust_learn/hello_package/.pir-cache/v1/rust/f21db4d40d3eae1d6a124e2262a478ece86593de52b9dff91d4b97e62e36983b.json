@@ -1,0 +1,24 @@
+{
+  "deps": [],
+  "file": "../src/front_of_house/hosting.rs",
+  "hash": "f21db4d40d3eae1d6a124e2262a478ece86593de52b9dff91d4b97e62e36983b",
+  "lang": "Rust",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "add_to_waitlist"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "seat_at_table"
+    }
+  ],
+  "timestamp": "2025-12-23T15:01:16.573102",
+  "unit": {
+    "module": "front_of_house",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

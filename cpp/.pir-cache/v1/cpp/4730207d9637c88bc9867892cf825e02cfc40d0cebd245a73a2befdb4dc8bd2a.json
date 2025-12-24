@@ -1,0 +1,22 @@
+{
+  "deps": [
+    "include:[vector]",
+    "include:[algorithm]"
+  ],
+  "file": "../\u7b80\u5355\u9898/892\u4e09\u7ef4\u5f62\u4f53\u7684\u8868\u9762\u79ef.cpp",
+  "hash": "4730207d9637c88bc9867892cf825e02cfc40d0cebd245a73a2befdb4dc8bd2a",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "surfaceArea"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.315398",
+  "unit": {
+    "module": "\u7b80\u5355\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

@@ -1,0 +1,45 @@
+{
+  "deps": [
+    "use:[std::env]",
+    "use:[std::process]",
+    "use:[minigrep::Config]"
+  ],
+  "file": "../minigrep/src/main.rs",
+  "hash": "5b6f2e277acf75577a6f865f947411e6e1d4f037b0948d0eb65dca8ef1e8da86",
+  "lang": "Rust",
+  "symbols": [
+    {
+      "attrs": {
+        "entry": "true"
+      },
+      "kind": "func",
+      "name": "main"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "run"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "new"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "build"
+    },
+    {
+      "attrs": {},
+      "kind": "struct",
+      "name": "Config"
+    }
+  ],
+  "timestamp": "2025-12-23T14:47:08.935830",
+  "unit": {
+    "module": "src",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

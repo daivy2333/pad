@@ -1,0 +1,19 @@
+{
+  "deps": [],
+  "file": "../\u7b80\u5355\u9898/896\u5355\u8c03\u6570\u5217.cpp",
+  "hash": "1644c527d0c83a182b1c446ba03a887d9dd07f352412bd3a1a4d19c0bbb6c125",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "isMonotonic"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.318665",
+  "unit": {
+    "module": "\u7b80\u5355\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

@@ -1,0 +1,25 @@
+{
+  "deps": [
+    "use:[hello_package::eat_at_restaurant]",
+    "use:[hello_package::front_of_house]",
+    "use:[hello_package::back_of_house]"
+  ],
+  "file": "../src/main.rs",
+  "hash": "08278aea38182f8aa9b1f94337d3dd107aad8ddd3fcec25f1b9a72fe002c95de",
+  "lang": "Rust",
+  "symbols": [
+    {
+      "attrs": {
+        "entry": "true"
+      },
+      "kind": "func",
+      "name": "main"
+    }
+  ],
+  "timestamp": "2025-12-23T15:01:16.571062",
+  "unit": {
+    "module": "src",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

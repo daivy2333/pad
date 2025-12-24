@@ -1,0 +1,24 @@
+{
+  "deps": [],
+  "file": "../\u7b80\u5355\u9898/938\u4e8c\u53c9\u641c\u7d22\u6811\u7684\u8303\u56f4\u548c.cpp",
+  "hash": "fe46e62f2656304910bae6f627af20c194bb1abe3de7ce1acf2532eef79433da",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "rangeSumBST"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "dfs"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.324370",
+  "unit": {
+    "module": "\u7b80\u5355\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

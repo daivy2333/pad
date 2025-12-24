@@ -1,0 +1,22 @@
+{
+  "deps": [
+    "include:[vector]",
+    "include:[algorithm]"
+  ],
+  "file": "../\u7b80\u5355\u9898/883\u4e09\u7ef4\u5f62\u4f53\u6295\u5f71\u9762\u79ef.cpp",
+  "hash": "423b16862a8e64e8c8c2d651117d73a1d0089d41ec2a84697f727a55207d751f",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "projectionArea"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.310092",
+  "unit": {
+    "module": "\u7b80\u5355\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

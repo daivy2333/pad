@@ -1,0 +1,19 @@
+{
+  "deps": [],
+  "file": "../algor_learn/src/bubble_sort.rs",
+  "hash": "a65eb60ef011cf2c3a54558698b3842f9762827f3e19a0fa983476801a9a1039",
+  "lang": "Rust",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "bubble_sort"
+    }
+  ],
+  "timestamp": "2025-12-23T14:47:08.932129",
+  "unit": {
+    "module": "src",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

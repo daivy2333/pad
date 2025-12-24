@@ -1,0 +1,19 @@
+{
+  "deps": [],
+  "file": "../algor_learn/src/bucket_sort.rs",
+  "hash": "2e92cac8521d06692ff98c706a6d4eccd94940e759661f2c8a110d8843981b74",
+  "lang": "Rust",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "bucket_sort"
+    }
+  ],
+  "timestamp": "2025-12-23T14:47:08.929980",
+  "unit": {
+    "module": "src",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

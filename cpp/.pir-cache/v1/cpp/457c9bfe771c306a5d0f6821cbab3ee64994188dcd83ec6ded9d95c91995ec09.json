@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/7.cpp",
+  "hash": "457c9bfe771c306a5d0f6821cbab3ee64994188dcd83ec6ded9d95c91995ec09",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "trap"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.330581",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

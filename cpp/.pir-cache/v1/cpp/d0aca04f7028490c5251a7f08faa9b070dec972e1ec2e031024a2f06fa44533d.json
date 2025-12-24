@@ -1,0 +1,38 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../icpc/57-1.cpp",
+  "hash": "d0aca04f7028490c5251a7f08faa9b070dec972e1ec2e031024a2f06fa44533d",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "gcd"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "dfs"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "print_result"
+    },
+    {
+      "attrs": {
+        "entry": "true"
+      },
+      "kind": "func",
+      "name": "main"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.297732",
+  "unit": {
+    "module": "icpc",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

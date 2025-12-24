@@ -1,0 +1,49 @@
+{
+  "deps": [
+    "use:[std::collections::{BinaryHeap, HashMap}]",
+    "use:[std::cmp::Ordering]"
+  ],
+  "file": "../a_find/src/main.rs",
+  "hash": "2bf6f97466b01b6cc976e8e5a2a5c25c32ff9c4abcbcc8655982d2cd8fc51308",
+  "lang": "Rust",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "cmp"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "partial_cmp"
+    },
+    {
+      "attrs": {
+        "entry": "true"
+      },
+      "kind": "func",
+      "name": "main"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "heuristic"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "reconstruct_path"
+    },
+    {
+      "attrs": {},
+      "kind": "struct",
+      "name": "Node"
+    }
+  ],
+  "timestamp": "2025-12-23T14:47:08.929083",
+  "unit": {
+    "module": "src",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

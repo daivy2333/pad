@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../icpc/54-1.cpp",
+  "hash": "d3f1da2e06f493e117b37d3fcab4c9a5f7f4d5ab3e69ac401023d33593ef3901",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "dfs"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.296310",
+  "unit": {
+    "module": "icpc",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

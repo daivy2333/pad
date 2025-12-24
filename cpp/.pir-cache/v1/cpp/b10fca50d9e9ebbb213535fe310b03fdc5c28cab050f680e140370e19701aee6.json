@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/5.cpp",
+  "hash": "b10fca50d9e9ebbb213535fe310b03fdc5c28cab050f680e140370e19701aee6",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "maxArea"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.329409",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

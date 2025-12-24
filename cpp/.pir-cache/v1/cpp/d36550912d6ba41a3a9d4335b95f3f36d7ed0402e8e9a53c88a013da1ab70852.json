@@ -1,0 +1,23 @@
+{
+  "deps": [
+    "include:[vector]",
+    "include:[unordered_map]",
+    "include:[algorithm]"
+  ],
+  "file": "../\u7b80\u5355\u9898/914\u5361\u724c\u5206\u7ec4.cpp",
+  "hash": "d36550912d6ba41a3a9d4335b95f3f36d7ed0402e8e9a53c88a013da1ab70852",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "hasGroupsSizeX"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.314799",
+  "unit": {
+    "module": "\u7b80\u5355\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

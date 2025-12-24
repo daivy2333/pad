@@ -1,0 +1,39 @@
+{
+  "deps": [],
+  "file": "../src/front_of_house/serving.rs",
+  "hash": "528b6073e1b6df65d54fd15d048802de5d81227e6740ba67e9cddd5c1bbac1c9",
+  "lang": "Rust",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "take_order"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "serve_order"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "take_payment"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "note_complain"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "complain"
+    }
+  ],
+  "timestamp": "2025-12-23T15:01:16.571465",
+  "unit": {
+    "module": "front_of_house",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

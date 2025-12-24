@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/4.cpp",
+  "hash": "b06ba22c5e19f5ab9ca6193d7d6a17ab14dd52e494b5595d081025e991e0dd83",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "moveZeroes"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.334039",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

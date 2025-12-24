@@ -1,0 +1,64 @@
+{
+  "deps": [
+    "use:[std::error::Error]",
+    "use:[std::fs]",
+    "use:[std::env]",
+    "use:[super::*]"
+  ],
+  "file": "../minigrep/src/lib.rs",
+  "hash": "d3e85b2faa88d6f32b531fd1c381d95c049c079fc07e47944defe6240b9e676a",
+  "lang": "Rust",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "build"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "run"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "case_sensitive"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "case_insensitive"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "one_result"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "search"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "search"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "search_case_insensitive"
+    },
+    {
+      "attrs": {},
+      "kind": "struct",
+      "name": "Config"
+    }
+  ],
+  "timestamp": "2025-12-23T14:47:08.934980",
+  "unit": {
+    "module": "src",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

@@ -1,0 +1,13 @@
+{
+  "deps": [],
+  "file": "../\u7b80\u5355\u9898/884\u4e24\u53e5\u8bdd\u4e2d\u7684\u4e0d\u5e38\u89c1\u5355\u8bcd.cpp",
+  "hash": "2ccf5b62ef0d4f913126b020ebdd5aee9392be2451ceafdc4426da03a99b27a9",
+  "lang": "CPP",
+  "symbols": [],
+  "timestamp": "2025-12-23T14:45:44.312333",
+  "unit": {
+    "module": "\u7b80\u5355\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

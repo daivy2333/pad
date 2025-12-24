@@ -1,0 +1,13 @@
+{
+  "deps": [],
+  "file": "../src/front_of_house/mod.rs",
+  "hash": "d37241bbd59fc1de770eb85b9a6b0525f24e7383273e2d3f4ed01db35c245a4a",
+  "lang": "Rust",
+  "symbols": [],
+  "timestamp": "2025-12-23T15:01:16.573297",
+  "unit": {
+    "module": "front_of_house",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

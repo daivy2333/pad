@@ -1,0 +1,33 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../icpc/69-1.cpp",
+  "hash": "597de2cfb4f605be4e5df72175c4dd974a577c2b13a7d8907ff8bbee10932c3f",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "postorder"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "remove_tree"
+    },
+    {
+      "attrs": {
+        "entry": "true"
+      },
+      "kind": "func",
+      "name": "main"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.295671",
+  "unit": {
+    "module": "icpc",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

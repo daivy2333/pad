@@ -1,0 +1,19 @@
+{
+  "deps": [],
+  "file": "../\u7b80\u5355\u9898/917\u4ec5\u4ec5\u53cd\u8f6c\u5b57\u6bcd.cpp",
+  "hash": "087569d0c7f2f5bf5250ed5e54261e3c500febf43732da67c6d29d44bbc3110e",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "reverseOnlyLetters"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.320226",
+  "unit": {
+    "module": "\u7b80\u5355\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

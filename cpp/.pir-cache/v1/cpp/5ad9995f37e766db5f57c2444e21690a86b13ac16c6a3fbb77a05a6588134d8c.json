@@ -1,0 +1,23 @@
+{
+  "deps": [
+    "include:[vector]",
+    "include:[string]",
+    "include:[unordered_set]"
+  ],
+  "file": "../\u7b80\u5355\u9898/929\u72ec\u7279\u7684\u7535\u5b50\u90ae\u4ef6\u5730\u5740.cpp",
+  "hash": "5ad9995f37e766db5f57c2444e21690a86b13ac16c6a3fbb77a05a6588134d8c",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "numUniqueEmails"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.319526",
+  "unit": {
+    "module": "\u7b80\u5355\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

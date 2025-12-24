@@ -1,0 +1,19 @@
+{
+  "deps": [],
+  "file": "../\u7b80\u5355\u9898/908\u6700\u5c0f\u5dee\u503c\u4e00.cpp",
+  "hash": "6561daae4eb9e58047a253f1323e10e7fba213c14a566d5d6efce6a857e9858e",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "smallestRangeI"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.315975",
+  "unit": {
+    "module": "\u7b80\u5355\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

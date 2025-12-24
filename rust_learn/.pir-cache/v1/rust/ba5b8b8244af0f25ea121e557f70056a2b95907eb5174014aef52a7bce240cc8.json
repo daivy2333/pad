@@ -1,0 +1,49 @@
+{
+  "deps": [
+    "use:[std::collections::{HashMap, HashSet}]",
+    "use:[std::io]"
+  ],
+  "file": "../make_out/src/main.rs",
+  "hash": "ba5b8b8244af0f25ea121e557f70056a2b95907eb5174014aef52a7bce240cc8",
+  "lang": "Rust",
+  "symbols": [
+    {
+      "attrs": {
+        "entry": "true"
+      },
+      "kind": "func",
+      "name": "main"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "initialize_knowledge_base"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "get_user_facts"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "run_inference"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "display_results"
+    },
+    {
+      "attrs": {},
+      "kind": "struct",
+      "name": "Rule"
+    }
+  ],
+  "timestamp": "2025-12-23T14:47:08.927627",
+  "unit": {
+    "module": "src",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

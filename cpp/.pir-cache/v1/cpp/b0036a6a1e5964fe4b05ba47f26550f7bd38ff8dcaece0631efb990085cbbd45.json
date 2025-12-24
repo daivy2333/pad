@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/13.cpp",
+  "hash": "b0036a6a1e5964fe4b05ba47f26550f7bd38ff8dcaece0631efb990085cbbd45",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "rotate"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.331122",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

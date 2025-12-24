@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[queue]"
+  ],
+  "file": "../\u7b80\u5355\u9898/933\u6700\u8fd1\u7684\u8bf7\u6c42\u6b21\u6570.cpp",
+  "hash": "5d757ec2fb0da9b5c923add36bf94b160bce26ab96b0850eebb46200c13c317e",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "ping"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.313631",
+  "unit": {
+    "module": "\u7b80\u5355\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

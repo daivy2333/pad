@@ -1,0 +1,19 @@
+{
+  "deps": [],
+  "file": "../algor_learn/src/cocktail_shaker_sort.rs",
+  "hash": "622afe727887b564fb6cee7ec5416340ede89c506f63c8f7174f54802ae7f27c",
+  "lang": "Rust",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "cocktail_shaker_sort"
+    }
+  ],
+  "timestamp": "2025-12-23T14:47:08.931296",
+  "unit": {
+    "module": "src",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

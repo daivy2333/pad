@@ -1,0 +1,25 @@
+{
+  "deps": [
+    "use:[std::cmp::Ordering]",
+    "use:[std::io]",
+    "use:[rand::Rng]"
+  ],
+  "file": "../hello_world/src/main.rs",
+  "hash": "33c75b48462e9079abd0ab48b364678dd2507375922c89ee456a53005e8abe06",
+  "lang": "Rust",
+  "symbols": [
+    {
+      "attrs": {
+        "entry": "true"
+      },
+      "kind": "func",
+      "name": "main"
+    }
+  ],
+  "timestamp": "2025-12-23T14:47:08.934152",
+  "unit": {
+    "module": "src",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

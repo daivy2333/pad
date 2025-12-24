@@ -1,0 +1,19 @@
+{
+  "deps": [],
+  "file": "../\u7b80\u5355\u9898/925\u957f\u6309\u952e\u5165.cpp",
+  "hash": "5c09102b9011f53061dd2ac190a9189c28a9305b02f7a002fa9247d2541b5283",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "isLongPressedName"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.322401",
+  "unit": {
+    "module": "\u7b80\u5355\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

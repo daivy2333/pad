@@ -1,0 +1,29 @@
+{
+  "deps": [
+    "include:[iostream]",
+    "include:[vector]"
+  ],
+  "file": "../\u7b80\u5355\u9898/867\u8f6c\u7f6e\u77e9\u9635.cpp",
+  "hash": "d9b92e24f29addd3776d2dd8853fb5a370447687d5363d1fff5c8e8be3904d17",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "printMatrix"
+    },
+    {
+      "attrs": {
+        "entry": "true"
+      },
+      "kind": "func",
+      "name": "main"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.323022",
+  "unit": {
+    "module": "\u7b80\u5355\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

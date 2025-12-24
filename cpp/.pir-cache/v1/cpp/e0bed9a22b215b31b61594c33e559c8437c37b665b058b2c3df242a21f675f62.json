@@ -1,0 +1,26 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../icpc/42-1.cpp",
+  "hash": "e0bed9a22b215b31b61594c33e559c8437c37b665b058b2c3df242a21f675f62",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "print_subset"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "mian"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.308267",
+  "unit": {
+    "module": "icpc",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

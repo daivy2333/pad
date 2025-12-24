@@ -1,0 +1,19 @@
+{
+  "deps": [],
+  "file": "../adder/src/lib.rs",
+  "hash": "2b95881a6712027a5a13c00307709c68f2537987f955c0e51031a1eb3c7aeca1",
+  "lang": "Rust",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "it_works"
+    }
+  ],
+  "timestamp": "2025-12-23T14:47:08.932708",
+  "unit": {
+    "module": "src",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

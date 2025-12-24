@@ -1,0 +1,26 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/14.cpp",
+  "hash": "4b1be97f56563ed08716d3d216ebc6c9d59076aeae084c1ecbef581adca5689a",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "maxVowels"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "is_vw"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.328667",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

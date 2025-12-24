@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/12.cpp",
+  "hash": "27c7d5bc5bb416007baf34b319bcbeec5879be4e2d761c99b51ddcdc02eb1a0b",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "compare"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.330081",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

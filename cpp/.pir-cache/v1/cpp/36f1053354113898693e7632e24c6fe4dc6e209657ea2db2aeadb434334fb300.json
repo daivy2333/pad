@@ -1,0 +1,19 @@
+{
+  "deps": [],
+  "file": "../\u7b80\u5355\u9898/944\u5220\u5217\u9020\u5e8f.cpp",
+  "hash": "36f1053354113898693e7632e24c6fe4dc6e209657ea2db2aeadb434334fb300",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "minDeletionSize"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.321808",
+  "unit": {
+    "module": "\u7b80\u5355\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

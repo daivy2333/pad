@@ -1,0 +1,33 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../icpc/49-1-1.cpp",
+  "hash": "fcc93956a07398c75f2b4fb4b3e7bc1795adcbd7d3d281d2ab7cebda2fdf46b8",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "cantor"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "bfs"
+    },
+    {
+      "attrs": {
+        "entry": "true"
+      },
+      "kind": "func",
+      "name": "main"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.303117",
+  "unit": {
+    "module": "icpc",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

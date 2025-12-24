@@ -1,0 +1,26 @@
+{
+  "deps": [],
+  "file": "../variables/src/main.rs",
+  "hash": "0e8b9904a87a7fb890253eade62c5856ff646d9dc494250add671c034bdfadbd",
+  "lang": "Rust",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "largest"
+    },
+    {
+      "attrs": {
+        "entry": "true"
+      },
+      "kind": "func",
+      "name": "main"
+    }
+  ],
+  "timestamp": "2025-12-23T14:47:08.933295",
+  "unit": {
+    "module": "src",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

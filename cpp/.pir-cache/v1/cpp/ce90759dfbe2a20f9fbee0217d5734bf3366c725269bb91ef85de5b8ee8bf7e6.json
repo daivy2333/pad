@@ -1,0 +1,26 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../icpc/HDU1237.cpp",
+  "hash": "ce90759dfbe2a20f9fbee0217d5734bf3366c725269bb91ef85de5b8ee8bf7e6",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "evalRPN"
+    },
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "isNumber"
+    }
+  ],
+  "timestamp": "2025-12-23T14:45:44.296883",
+  "unit": {
+    "module": "icpc",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}
