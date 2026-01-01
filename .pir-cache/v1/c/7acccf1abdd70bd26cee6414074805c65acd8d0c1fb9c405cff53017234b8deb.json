@@ -1,0 +1,23 @@
+{
+  "deps": [
+    "include:[immintrin.h]"
+  ],
+  "file": "../python_re/.conda/lib/python3.11/site-packages/numpy/distutils/checks/cpu_avx512_knm.c",
+  "hash": "7acccf1abdd70bd26cee6414074805c65acd8d0c1fb9c405cff53017234b8deb",
+  "lang": "C",
+  "symbols": [
+    {
+      "attrs": {
+        "entry": "true"
+      },
+      "kind": "func",
+      "name": "main"
+    }
+  ],
+  "timestamp": "2025-12-24T11:52:37.365827",
+  "unit": {
+    "module": "checks",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}
