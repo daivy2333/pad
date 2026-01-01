@@ -1,17 +1,24 @@
 use core::panic::PanicInfo;
-use crate::{println, sbi::shutdown};
+use crate::{sbi::shutdown};
+
 #[panic_handler]
 fn panic(info: &PanicInfo) -> !
 {
     if let Some(location) = info.location() {
-        println!(
-            "Panicked at {}:{} {}",
-            location.file(),
-            location.line(),
-            info.message().as_str().unwrap()
+        crate::log::_log(
+            crate::log::LogLevel::Error,
+            format_args!(
+                "Panicked at {}:{} {}",
+                location.file(),
+                location.line(),
+                info.message().as_str().unwrap()
+            )
         );
     } else {
-        println!("Panicked: {}", info.message().as_str().unwrap());
+        crate::log::_log(
+            crate::log::LogLevel::Error,
+            format_args!("Panicked: {}", info.message().as_str().unwrap())
+        );
     }
 
     shutdown(true)
