@@ -1,0 +1,1 @@
+/home/daivy/projects/pad/rust_learn/os/target/riscv64gc-unknown-none-elf/release/os: /home/daivy/projects/pad/rust_learn/os/src/console.rs /home/daivy/projects/pad/rust_learn/os/src/entry.asm /home/daivy/projects/pad/rust_learn/os/src/lang_items.rs /home/daivy/projects/pad/rust_learn/os/src/main.rs /home/daivy/projects/pad/rust_learn/os/src/sbi.rs
