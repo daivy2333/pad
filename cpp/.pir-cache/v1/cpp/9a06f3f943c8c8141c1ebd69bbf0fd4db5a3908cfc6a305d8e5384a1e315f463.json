@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/28.cpp",
+  "hash": "9a06f3f943c8c8141c1ebd69bbf0fd4db5a3908cfc6a305d8e5384a1e315f463",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "totalFruit"
+    }
+  ],
+  "timestamp": "2026-01-03T06:51:18.491983",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

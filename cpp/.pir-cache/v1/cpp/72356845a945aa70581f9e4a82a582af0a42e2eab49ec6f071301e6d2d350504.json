@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/27.cpp",
+  "hash": "72356845a945aa70581f9e4a82a582af0a42e2eab49ec6f071301e6d2d350504",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "equalSubstring"
+    }
+  ],
+  "timestamp": "2026-01-03T06:51:18.493154",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

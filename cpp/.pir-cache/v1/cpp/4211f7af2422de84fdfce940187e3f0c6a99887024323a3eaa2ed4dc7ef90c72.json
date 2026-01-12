@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/33.cpp",
+  "hash": "4211f7af2422de84fdfce940187e3f0c6a99887024323a3eaa2ed4dc7ef90c72",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "minSubArrayLen"
+    }
+  ],
+  "timestamp": "2026-01-03T06:51:18.497956",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

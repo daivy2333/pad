@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/15.cpp",
+  "hash": "d6a7949aee28eb3be0b86655a79c611634c8710f436b3fa73650a792f13686a7",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "numOfSubarrays"
+    }
+  ],
+  "timestamp": "2026-01-03T06:51:18.499795",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

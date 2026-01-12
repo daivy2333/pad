@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/19.cpp",
+  "hash": "c4c90f49428ce3d00658d78cbfb284b4dc03ca5eab24e5c463d94fcc3228b92f",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "maxSum"
+    }
+  ],
+  "timestamp": "2026-01-03T06:51:18.488506",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

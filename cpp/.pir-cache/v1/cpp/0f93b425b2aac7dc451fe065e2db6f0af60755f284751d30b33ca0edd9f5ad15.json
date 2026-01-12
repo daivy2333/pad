@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/29.cpp",
+  "hash": "0f93b425b2aac7dc451fe065e2db6f0af60755f284751d30b33ca0edd9f5ad15",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "maximumUniqueSubarray"
+    }
+  ],
+  "timestamp": "2026-01-03T06:51:18.493526",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

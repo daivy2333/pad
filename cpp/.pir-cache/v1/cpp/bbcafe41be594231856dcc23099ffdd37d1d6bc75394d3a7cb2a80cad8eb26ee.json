@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/35.cpp",
+  "hash": "bbcafe41be594231856dcc23099ffdd37d1d6bc75394d3a7cb2a80cad8eb26ee",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "numSubarrayProductLessThanK"
+    }
+  ],
+  "timestamp": "2026-01-03T06:51:18.495692",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

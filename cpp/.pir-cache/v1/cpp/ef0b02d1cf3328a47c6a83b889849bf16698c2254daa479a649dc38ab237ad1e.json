@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/31.cpp",
+  "hash": "ef0b02d1cf3328a47c6a83b889849bf16698c2254daa479a649dc38ab237ad1e",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "maxConsecutiveAnswers"
+    }
+  ],
+  "timestamp": "2026-01-03T06:51:18.499057",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

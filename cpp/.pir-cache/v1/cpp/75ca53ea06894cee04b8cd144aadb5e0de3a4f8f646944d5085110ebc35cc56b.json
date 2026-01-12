@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/34.cpp",
+  "hash": "75ca53ea06894cee04b8cd144aadb5e0de3a4f8f646944d5085110ebc35cc56b",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "balancedString"
+    }
+  ],
+  "timestamp": "2026-01-03T06:51:18.479193",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

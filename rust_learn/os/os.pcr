@@ -1,0 +1,32 @@
+<pcr>
+<need>
+type: unit
+ref: u7
+view: summary
+</need>
+<need>
+type: symbol
+ref: u7#rust_main
+view: impl
+</need>
+<need>
+type: entry
+ref: _start
+view: exist
+</need>
+<need>
+type: symbol
+ref: u5#_start
+view: impl
+</need>
+<need>
+type: symbol
+ref: u1#panic
+view: impl
+</need>
+<need>
+type: symbol
+ref: u7#clear_bss
+view: impl
+</need>
+</pcr>

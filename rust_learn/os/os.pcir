@@ -1,0 +1,53 @@
+<pcir>
+<evidence>
+ref: u7
+view: summary
+source: u7
+content:
+  type: Rust
+  module: src
+  role: lib
+  path: src/main.rs
+  symbol_count: 2
+</evidence>
+<evidence>
+ref: u7#rust_main
+view: impl
+source: u7
+content:
+  implementation:
+    ['clear_bss();', 'init(LogLevel::Debug);', 'crate::log::_log(LogLevel::Info, format_args!("avt"));', 'crate::log::_log(LogLevel::Error, format_args!("ero"));', 'crate::log::_log(LogLevel::Warn, format_args!("warn"));', 'crate::log::_log(LogLevel::Info, format_args!("note"));', 'crate::log::_log(LogLevel::Debug, format_args!("debug"));', 'crate::log::_log(LogLevel::Trace, format_args!("trace"));', 'let s_text = 0x8020_0000usize;', 'let e_text = 0x8021_0000usize;', 'let s_rodata = 0x8021_0000usize;', 'let e_rodata = 0x8022_0000usize;', 'let s_data = 0x8022_0000usize;', 'let e_data = 0x8023_0000usize;', 'crate::log::_log(LogLevel::Info, format_args!(".text [{:#x}, {:#x})", s_text, e_text));', 'crate::log::_log(LogLevel::Info, format_args!(".rodata [{:#x}, {:#x})", s_rodata, e_rodata));', 'crate::log::_log(LogLevel::Info, format_args!(".data [{:#x}, {:#x})", s_data, e_data));', 'crate::log::_log(LogLevel::Info, format_args!("turn INFO"));', 'log::set_max_level(LogLevel::Info);', 'crate::log::_log(LogLevel::Debug, format_args!("no put"));', 'crate::log::_log(LogLevel::Trace, format_args!("above too"));', 'crate::log::_log(LogLevel::Error, format_args!("err stiil"));', 'crate::log::_log(LogLevel::Warn, format_args!("warn stiil"));', 'crate::log::_log(LogLevel::Info, format_args!("info level"));', 'panic!("manba out!")']
+</evidence>
+<evidence>
+ref: _start
+view: exist
+source: unknown
+content:
+  status: ambiguous
+  suggestions:
+    - {'ref': 'u0#_start', 'desc': 'ld_entry in '}
+    - {'ref': 'u5#_start', 'desc': 'label in '}
+</evidence>
+<evidence>
+ref: u5#_start
+view: impl
+source: u5
+content:
+</evidence>
+<evidence>
+ref: u1#panic
+view: impl
+source: u1
+content:
+  implementation:
+    ['if let Some(location) = info.location() {', 'format_args!(', 'location.file(),', 'location.line(),', 'info.message().as_str().unwrap()', '} else {', 'format_args!("Panicked: {}", info.message().as_str().unwrap())', 'shutdown(true)']
+</evidence>
+<evidence>
+ref: u7#clear_bss
+view: impl
+source: u7
+content:
+  implementation:
+    ['unsafe extern "C" {', 'fn sbss();', 'fn ebss();', '(sbss as *const () as usize..ebss as *const () as usize).for_each(|a|{', 'unsafe {', '(a as *mut u8).write_volatile(0);']
+</evidence>
+</pcir>

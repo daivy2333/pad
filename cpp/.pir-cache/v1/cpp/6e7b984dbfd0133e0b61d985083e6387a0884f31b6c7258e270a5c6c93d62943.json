@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/32.cpp",
+  "hash": "6e7b984dbfd0133e0b61d985083e6387a0884f31b6c7258e270a5c6c93d62943",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "longestOnes"
+    }
+  ],
+  "timestamp": "2026-01-03T06:51:18.484430",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

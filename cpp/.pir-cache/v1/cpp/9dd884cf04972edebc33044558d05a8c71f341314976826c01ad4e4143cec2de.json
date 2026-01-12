@@ -1,0 +1,16 @@
+{
+  "deps": [
+    "include:[vector]",
+    "include:[algorithm]"
+  ],
+  "file": "../100\u9898/23.cpp",
+  "hash": "9dd884cf04972edebc33044558d05a8c71f341314976826c01ad4e4143cec2de",
+  "lang": "CPP",
+  "symbols": [],
+  "timestamp": "2026-01-03T06:51:18.485372",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

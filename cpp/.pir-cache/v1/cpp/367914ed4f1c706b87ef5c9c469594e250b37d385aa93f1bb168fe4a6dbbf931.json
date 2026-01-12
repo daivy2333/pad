@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/17.cpp",
+  "hash": "367914ed4f1c706b87ef5c9c469594e250b37d385aa93f1bb168fe4a6dbbf931",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "minimumRecolors"
+    }
+  ],
+  "timestamp": "2026-01-03T06:51:18.493830",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

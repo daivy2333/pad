@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/36.cpp",
+  "hash": "05bac08333c631bbfb99438b89ca8755da3699c89653f424ffc28bf232567332",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "countKConstraintSubstrings"
+    }
+  ],
+  "timestamp": "2026-01-03T06:51:18.477925",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

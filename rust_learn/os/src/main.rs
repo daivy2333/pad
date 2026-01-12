@@ -1,13 +1,16 @@
 #![no_std]
 #![no_main]
-
+mod trap;
+mod sync;
 mod lang_items;
 mod sbi;
 mod log;
-
+mod batch;
+mod syscall;
 use core::arch::global_asm;
 
 global_asm!(include_str!("entry.asm"));
+global_asm!(include_str!("link_app.S"));
 #[macro_use]
 mod console;
 

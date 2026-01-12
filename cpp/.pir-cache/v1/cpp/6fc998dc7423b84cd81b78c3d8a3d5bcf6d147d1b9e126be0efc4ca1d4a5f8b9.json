@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/21.cpp",
+  "hash": "6fc998dc7423b84cd81b78c3d8a3d5bcf6d147d1b9e126be0efc4ca1d4a5f8b9",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "minArrivalsToDiscard"
+    }
+  ],
+  "timestamp": "2026-01-03T06:51:18.480603",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

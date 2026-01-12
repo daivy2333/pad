@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "include:[bits/stdc++.h]"
+  ],
+  "file": "../100\u9898/24.cpp",
+  "hash": "cbeda357ded06d10e8250fc30e49219e690989f64230fb105acc289a48c5b285",
+  "lang": "CPP",
+  "symbols": [
+    {
+      "attrs": {},
+      "kind": "func",
+      "name": "maximumLengthSubstring"
+    }
+  ],
+  "timestamp": "2026-01-03T06:51:18.494273",
+  "unit": {
+    "module": "100\u9898",
+    "role": "lib"
+  },
+  "version": "pir-analyzer-v1"
+}

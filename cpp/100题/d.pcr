@@ -1,0 +1,962 @@
+<pcr>
+<need>
+type: entry
+ref: main
+view: definition
+</need>
+<need>
+type: unit
+ref: u4
+view: api
+</need>
+<need>
+type: unit
+ref: u0
+view: api
+</need>
+<need>
+type: unit
+ref: u1
+view: api
+</need>
+<need>
+type: unit
+ref: u2
+view: api
+</need>
+<need>
+type: unit
+ref: u3
+view: api
+</need>
+<need>
+type: unit
+ref: u5
+view: api
+</need>
+<need>
+type: unit
+ref: u6
+view: api
+</need>
+<need>
+type: unit
+ref: u7
+view: api
+</need>
+<need>
+type: unit
+ref: u8
+view: api
+</need>
+<need>
+type: unit
+ref: u9
+view: api
+</need>
+<need>
+type: unit
+ref: u10
+view: api
+</need>
+<need>
+type: unit
+ref: u11
+view: api
+</need>
+<need>
+type: unit
+ref: u12
+view: api
+</need>
+<need>
+type: unit
+ref: u13
+view: api
+</need>
+<need>
+type: unit
+ref: u14
+view: api
+</need>
+<need>
+type: unit
+ref: u15
+view: api
+</need>
+<need>
+type: unit
+ref: u16
+view: api
+</need>
+<need>
+type: unit
+ref: u17
+view: api
+</need>
+<need>
+type: unit
+ref: u20
+view: api
+</need>
+<need>
+type: unit
+ref: u22
+view: api
+</need>
+<need>
+type: unit
+ref: u23
+view: api
+</need>
+<need>
+type: unit
+ref: u24
+view: api
+</need>
+<need>
+type: unit
+ref: u25
+view: api
+</need>
+<need>
+type: unit
+ref: u26
+view: api
+</need>
+<need>
+type: unit
+ref: u27
+view: api
+</need>
+<need>
+type: unit
+ref: u28
+view: api
+</need>
+<need>
+type: unit
+ref: u29
+view: api
+</need>
+<need>
+type: unit
+ref: u30
+view: api
+</need>
+<need>
+type: unit
+ref: u31
+view: api
+</need>
+<need>
+type: unit
+ref: u33
+view: api
+</need>
+<need>
+type: unit
+ref: u34
+view: api
+</need>
+<need>
+type: unit
+ref: u35
+view: api
+</need>
+<need>
+type: unit
+ref: u4
+view: impl
+</need>
+<need>
+type: unit
+ref: u0
+view: impl
+</need>
+<need>
+type: unit
+ref: u1
+view: impl
+</need>
+<need>
+type: unit
+ref: u2
+view: impl
+</need>
+<need>
+type: unit
+ref: u3
+view: impl
+</need>
+<need>
+type: unit
+ref: u5
+view: impl
+</need>
+<need>
+type: unit
+ref: u6
+view: impl
+</need>
+<need>
+type: unit
+ref: u7
+view: impl
+</need>
+<need>
+type: unit
+ref: u8
+view: impl
+</need>
+<need>
+type: unit
+ref: u9
+view: impl
+</need>
+<need>
+type: unit
+ref: u10
+view: impl
+</need>
+<need>
+type: unit
+ref: u11
+view: impl
+</need>
+<need>
+type: unit
+ref: u12
+view: impl
+</need>
+<need>
+type: unit
+ref: u13
+view: impl
+</need>
+<need>
+type: unit
+ref: u14
+view: impl
+</need>
+<need>
+type: unit
+ref: u15
+view: impl
+</need>
+<need>
+type: unit
+ref: u16
+view: impl
+</need>
+<need>
+type: unit
+ref: u17
+view: impl
+</need>
+<need>
+type: unit
+ref: u20
+view: impl
+</need>
+<need>
+type: unit
+ref: u22
+view: impl
+</need>
+<need>
+type: unit
+ref: u23
+view: impl
+</need>
+<need>
+type: unit
+ref: u24
+view: impl
+</need>
+<need>
+type: unit
+ref: u25
+view: impl
+</need>
+<need>
+type: unit
+ref: u26
+view: impl
+</need>
+<need>
+type: unit
+ref: u27
+view: impl
+</need>
+<need>
+type: unit
+ref: u28
+view: impl
+</need>
+<need>
+type: unit
+ref: u29
+view: impl
+</need>
+<need>
+type: unit
+ref: u30
+view: impl
+</need>
+<need>
+type: unit
+ref: u31
+view: impl
+</need>
+<need>
+type: unit
+ref: u33
+view: impl
+</need>
+<need>
+type: unit
+ref: u34
+view: impl
+</need>
+<need>
+type: unit
+ref: u35
+view: impl
+</need>
+<need>
+type: symbol
+ref: u4#main
+view: impl
+</need>
+<need>
+type: symbol
+ref: u0#countKConstraintSubstrings
+view: impl
+</need>
+<need>
+type: symbol
+ref: u1#balancedString
+view: impl
+</need>
+<need>
+type: symbol
+ref: u2#lengthOfLongestSubstring
+view: impl
+</need>
+<need>
+type: symbol
+ref: u3#minArrivalsToDiscard
+view: impl
+</need>
+<need>
+type: symbol
+ref: u5#subarraySum
+view: impl
+</need>
+<need>
+type: symbol
+ref: u6#maxSum
+view: impl
+</need>
+<need>
+type: symbol
+ref: u7#maxVowels
+view: impl
+</need>
+<need>
+type: symbol
+ref: u7#is_vw
+view: impl
+</need>
+<need>
+type: symbol
+ref: u8#maxSubarrayLength
+view: impl
+</need>
+<need>
+type: symbol
+ref: u9#longestOnes
+view: impl
+</need>
+<need>
+type: symbol
+ref: u11#maxArea
+view: impl
+</need>
+<need>
+type: symbol
+ref: u12#compare
+view: impl
+</need>
+<need>
+type: symbol
+ref: u13#maxScore
+view: impl
+</need>
+<need>
+type: symbol
+ref: u14#trap
+view: impl
+</need>
+<need>
+type: symbol
+ref: u15#rotate
+view: impl
+</need>
+<need>
+type: symbol
+ref: u16#maxSum
+view: impl
+</need>
+<need>
+type: symbol
+ref: u17#maxSatisfied
+view: impl
+</need>
+<need>
+type: symbol
+ref: u20#totalFruit
+view: impl
+</need>
+<need>
+type: symbol
+ref: u22#equalSubstring
+view: impl
+</need>
+<need>
+type: symbol
+ref: u23#maximumUniqueSubarray
+view: impl
+</need>
+<need>
+type: symbol
+ref: u24#minimumRecolors
+view: impl
+</need>
+<need>
+type: symbol
+ref: u25#maximumLengthSubstring
+view: impl
+</need>
+<need>
+type: symbol
+ref: u26#longestConsecutive
+view: impl
+</need>
+<need>
+type: symbol
+ref: u27#numSubarrayProductLessThanK
+view: impl
+</need>
+<need>
+type: symbol
+ref: u28#moveZeroes
+view: impl
+</need>
+<need>
+type: symbol
+ref: u29#longestSubarray
+view: impl
+</need>
+<need>
+type: symbol
+ref: u30#minRemoval
+view: impl
+</need>
+<need>
+type: symbol
+ref: u31#minSubArrayLen
+view: impl
+</need>
+<need>
+type: symbol
+ref: u33#maxConsecutiveAnswers
+view: impl
+</need>
+<need>
+type: symbol
+ref: u34#numOfSubarrays
+view: impl
+</need>
+<need>
+type: symbol
+ref: u35#maxSubArray
+view: impl
+</need>
+<need>
+type: unit
+ref: u0
+view: asm
+</need>
+<need>
+type: unit
+ref: u1
+view: asm
+</need>
+<need>
+type: unit
+ref: u2
+view: asm
+</need>
+<need>
+type: unit
+ref: u4
+view: asm
+</need>
+<need>
+type: unit
+ref: u5
+view: asm
+</need>
+<need>
+type: unit
+ref: u6
+view: asm
+</need>
+<need>
+type: unit
+ref: u7
+view: asm
+</need>
+<need>
+type: unit
+ref: u8
+view: asm
+</need>
+<need>
+type: unit
+ref: u9
+view: asm
+</need>
+<need>
+type: unit
+ref: u10
+view: asm
+</need>
+<need>
+type: unit
+ref: u11
+view: asm
+</need>
+<need>
+type: unit
+ref: u12
+view: asm
+</need>
+<need>
+type: unit
+ref: u13
+view: asm
+</need>
+<need>
+type: unit
+ref: u14
+view: asm
+</need>
+<need>
+type: unit
+ref: u15
+view: asm
+</need>
+<need>
+type: unit
+ref: u16
+view: asm
+</need>
+<need>
+type: unit
+ref: u17
+view: asm
+</need>
+<need>
+type: unit
+ref: u20
+view: asm
+</need>
+<need>
+type: unit
+ref: u22
+view: asm
+</need>
+<need>
+type: unit
+ref: u23
+view: asm
+</need>
+<need>
+type: unit
+ref: u24
+view: asm
+</need>
+<need>
+type: unit
+ref: u25
+view: asm
+</need>
+<need>
+type: unit
+ref: u26
+view: asm
+</need>
+<need>
+type: unit
+ref: u27
+view: asm
+</need>
+<need>
+type: unit
+ref: u28
+view: asm
+</need>
+<need>
+type: unit
+ref: u29
+view: asm
+</need>
+<need>
+type: unit
+ref: u30
+view: asm
+</need>
+<need>
+type: unit
+ref: u31
+view: asm
+</need>
+<need>
+type: unit
+ref: u33
+view: asm
+</need>
+<need>
+type: unit
+ref: u34
+view: asm
+</need>
+<need>
+type: unit
+ref: u35
+view: asm
+</need>
+<need>
+type: unit
+ref: u0
+view: summary
+</need>
+<need>
+type: unit
+ref: u1
+view: summary
+</need>
+<need>
+type: unit
+ref: u2
+view: summary
+</need>
+<need>
+type: unit
+ref: u3
+view: summary
+</need>
+<need>
+type: unit
+ref: u4
+view: summary
+</need>
+<need>
+type: unit
+ref: u5
+view: summary
+</need>
+<need>
+type: unit
+ref: u6
+view: summary
+</need>
+<need>
+type: unit
+ref: u7
+view: summary
+</need>
+<need>
+type: unit
+ref: u8
+view: summary
+</need>
+<need>
+type: unit
+ref: u9
+view: summary
+</need>
+<need>
+type: unit
+ref: u10
+view: summary
+</need>
+<need>
+type: unit
+ref: u11
+view: summary
+</need>
+<need>
+type: unit
+ref: u12
+view: summary
+</need>
+<need>
+type: unit
+ref: u13
+view: summary
+</need>
+<need>
+type: unit
+ref: u14
+view: summary
+</need>
+<need>
+type: unit
+ref: u15
+view: summary
+</need>
+<need>
+type: unit
+ref: u16
+view: summary
+</need>
+<need>
+type: unit
+ref: u17
+view: summary
+</need>
+<need>
+type: unit
+ref: u20
+view: summary
+</need>
+<need>
+type: unit
+ref: u22
+view: summary
+</need>
+<need>
+type: unit
+ref: u23
+view: summary
+</need>
+<need>
+type: unit
+ref: u24
+view: summary
+</need>
+<need>
+type: unit
+ref: u25
+view: summary
+</need>
+<need>
+type: unit
+ref: u26
+view: summary
+</need>
+<need>
+type: unit
+ref: u27
+view: summary
+</need>
+<need>
+type: unit
+ref: u28
+view: summary
+</need>
+<need>
+type: unit
+ref: u29
+view: summary
+</need>
+<need>
+type: unit
+ref: u30
+view: summary
+</need>
+<need>
+type: unit
+ref: u31
+view: summary
+</need>
+<need>
+type: unit
+ref: u33
+view: summary
+</need>
+<need>
+type: unit
+ref: u34
+view: summary
+</need>
+<need>
+type: unit
+ref: u35
+view: summary
+</need>
+<need>
+type: symbol
+ref: u4#main
+view: callchain
+</need>
+<need>
+type: symbol
+ref: longestConsecutive
+view: definition
+</need>
+<need>
+type: symbol
+ref: maxArea
+view: definition
+</need>
+<need>
+type: symbol
+ref: maxSubArray
+view: definition
+</need>
+<need>
+type: symbol
+ref: lengthOfLongestSubstring
+view: definition
+</need>
+<need>
+type: symbol
+ref: balancedString
+view: definition
+</need>
+<need>
+type: symbol
+ref: u7#is_vw
+view: callchain
+</need>
+<need>
+type: symbol
+ref: u7#maxVowels
+view: callchain
+</need>
+<need>
+type: symbol
+ref: u26#longestConsecutive
+view: callchain
+</need>
+<need>
+type: symbol
+ref: u2#lengthOfLongestSubstring
+view: callchain
+</need>
+<need>
+type: symbol
+ref: u1#balancedString
+view: callchain
+</need>
+<need>
+type: symbol
+ref: u11#maxArea
+view: callchain
+</need>
+<need>
+type: symbol
+ref: u35#maxSubArray
+view: callchain
+</need>
+<need>
+type: symbol
+ref: u5#subarraySum
+view: callchain
+</need>
+<need>
+type: symbol
+ref: u8#maxSubarrayLength
+view: callchain
+</need>
+<need>
+type: symbol
+ref: u9#longestOnes
+view: callchain
+</need>
+<need>
+type: symbol
+ref: u13#maxScore
+view: callchain
+</need>
+<need>
+type: symbol
+ref: u14#trap
+view: callchain
+</need>
+<need>
+type: symbol
+ref: u15#rotate
+view: callchain
+</need>
+<need>
+type: symbol
+ref: u20#totalFruit
+view: callchain
+</need>
+<need>
+type: symbol
+ref: u22#equalSubstring
+view: callchain
+</need>
+<need>
+type: symbol
+ref: u24#minimumRecolors
+view: callchain
+</need>
+<need>
+type: symbol
+ref: u28#moveZeroes
+view: callchain
+</need>
+<need>
+type: layout
+ref: .text
+view: summary
+</need>
+<need>
+type: layout
+ref: .data
+view: summary
+</need>
+<need>
+type: layout
+ref: .bss
+view: summary
+</need>
+<need>
+type: layout
+ref: .rodata
+view: summary
+</need>
+<need>
+type: layout
+ref: .stack
+view: summary
+</need>
+<need>
+type: layout
+ref: .heap
+view: summary
+</need>
+<need>
+type: entry
+ref: main
+view: summary
+</need>
+<need>
+type: entry
+ref: main
+view: callchain
+</need>
+<need>
+type: entry
+ref: main
+view: exist
+</need>
+</pcr>
