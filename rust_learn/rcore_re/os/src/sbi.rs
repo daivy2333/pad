@@ -6,10 +6,9 @@ pub fn console_putchar(c: usize)
     sbi_rt::legacy::console_putchar(c);
 }
 
-pub fn console_getchar() -> usize
+pub fn set_timer(timer: usize)
 {
-    #[allow(deprecated)]
-    sbi_rt::legacy::console_getchar()
+    sbi_rt::set_timer(timer as _);
 }
 
 pub fn shutdown(failure: bool) -> !
